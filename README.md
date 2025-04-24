@@ -1,0 +1,1 @@
+Dieses Programm zielt darauf, die Umrechnung unterschiedlicher Einheiten beim Brauen alkoholischer Getränke zu erleichtern und mögliche Alkoholgehalte zu berechnen
